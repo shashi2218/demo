@@ -1,0 +1,13 @@
+2024-03-05 16:23:41,600 :INFO :pytestDemo.test_logging :information
+2024-03-05 16:23:41,600 :WARNING :pytestDemo.test_logging :warning
+2024-03-05 16:23:41,601 :ERROR :pytestDemo.test_logging :error
+2024-03-05 16:23:41,602 :CRITICAL :pytestDemo.test_logging :critical
+2024-03-05 16:35:56,114 :INFO :pytestDemo.Baseclass :Rampur
+2024-03-05 16:40:28,803 :INFO :pytestDemo.Baseclass :Rampur
+2024-03-05 16:44:39,575 :INFO :pytestDemo.Baseclass :Rampur
+2024-03-05 16:44:55,020 :INFO :pytestDemo.Baseclass :Rampur
+2024-03-05 16:44:55,020 :INFO :pytestDemo.Baseclass :hishashi.com
+2024-03-05 16:45:22,366 :INFO :pytestDemo.Baseclass :Rampur
+2024-03-05 16:45:22,366 :INFO :pytestDemo.Baseclass :hishashi.com
+2024-03-05 16:46:36,049 :INFO :test_editprofile :Rampur
+2024-03-05 16:46:36,050 :INFO :test_editprofile :hishashi.com
